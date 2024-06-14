@@ -1,0 +1,7 @@
+closeAfterDays: 30
+exemptLabels:
+  - do-not-close
+  - keep-open
+closeComment: >
+  This issue/pull request has been automatically closed due to inactivity.
+  If you feel this was done in error, please reopen the issue/pull request.
